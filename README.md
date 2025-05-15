@@ -1,2 +1,2 @@
-# task-manager-api
-# task-list-api
+This is an example code for developing rest api in nodejs
+
